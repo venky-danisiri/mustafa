@@ -10,7 +10,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: brown; font-size: 55px;" align="center"> THIS IS TOMCAT APPLICATION</h1>
-	<h2 style="colour; red; font-size: 65px:" align="center"> Randomguy changed the code</h2>
+	<h1 style="colour; pink; font-size: 65px:" align="center"> Random guy changed the code</h1>
 
 	
 	
